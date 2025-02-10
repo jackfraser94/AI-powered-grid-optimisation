@@ -10,4 +10,8 @@ Distribution optimization: It’s not just predicting how much power each house 
 
 Ultimately, grid optimization is about balancing supply and demand in the most efficient, cost-effective, and reliable way—often by using advanced data-driven methods to forecast demand and manage available resources (power plants, renewable sources, batteries, etc.).
 
-Data: https://open-power-system-data.org/
+Data Utilisation: 
+
+Access: https://open-power-system-data.org/
+
+Data Chosen: Time series is good for forecasting consumption, balancing with generation
