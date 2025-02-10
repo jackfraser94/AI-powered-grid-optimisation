@@ -9,3 +9,5 @@ Where AI/ML fits: By predicting energy usage—for instance, how much electricit
 Distribution optimization: It’s not just predicting how much power each house uses, but also routing and balancing power across different parts of the grid, accounting for factors like power line capacity, local generation (e.g., solar panels), and storage (e.g., batteries).
 
 Ultimately, grid optimization is about balancing supply and demand in the most efficient, cost-effective, and reliable way—often by using advanced data-driven methods to forecast demand and manage available resources (power plants, renewable sources, batteries, etc.).
+
+Data: https://open-power-system-data.org/
