@@ -16,6 +16,7 @@ Access: https://open-power-system-data.org/
 
 Data Chosen: Time series is good for forecasting consumption, balancing with generation
 
+'''
 AI-Powered-Smart-Grid-Optimization/ │── README.md # Project Documentation
 │── requirements.txt # Dependencies
 │── data/ # Required datasets
@@ -34,5 +35,6 @@ AI-Powered-Smart-Grid-Optimization/ │── README.md # Project Documentation
 │ ├── actual_demand.png
 │ ├── correlation_heatmap.png
 │── tableau/ # Tableau Dashboard Files
-│ ├── tableau_dashboard.twbx
+│ ├── tableau_dashboard.twbx 
+'''
 
