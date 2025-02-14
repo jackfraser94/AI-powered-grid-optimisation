@@ -17,12 +17,13 @@ It consists of:
 AI-Powered-Smart-Grid-Optimization/
 │── README.md                   # Project Documentation  
 │── requirements.txt            # Dependencies  
-│── data/                        # Required datasets  
+│── data/                       # Required datasets  
 │   ├── time_series_featured.csv  
 │   ├── forecasted_demand_tableau.csv  
 │   ├── optimization_results_tableau.csv  
-│── scripts/                      # Python scripts  
-│   ├── eda.py                      # Exploratory Data Analysis  
+│── scripts/                         # Python scripts
+│   ├── data_cleaning.py             # Clean raw data 
+│   ├── eda.py                       # Exploratory Data Analysis  
 │   ├── feature_engineering.py       # Feature Engineering  
 │   ├── forecasting_model.py         # ML Model Training  
 │   ├── grid_optimization.py         # Grid Optimization Algorithm  
