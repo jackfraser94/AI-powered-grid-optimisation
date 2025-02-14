@@ -21,8 +21,6 @@ AI-Powered-Smart-Grid-Optimization/
 │   ├── time_series_featured.csv  
 │   ├── forecasted_demand_tableau.csv  
 │   ├── optimization_results_tableau.csv  
-│── models/                      # Saved machine learning models  
-│   ├── forecasting_model.pkl  
 │── scripts/                      # Python scripts  
 │   ├── eda.py                      # Exploratory Data Analysis  
 │   ├── feature_engineering.py       # Feature Engineering  
