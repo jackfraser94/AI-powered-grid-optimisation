@@ -17,7 +17,7 @@ Data sourced from https://open-power-system-data.org/
 ```plaintext
 AI-Powered-Smart-Grid-Optimization/
 │── README.md                   # Project Documentation  
-│── requirements.txt            # Dependencies  
+│── dependencies.txt            # Dependencies  
 │── data/                       # Required datasets  
 │   ├── time_series_15min_singleindex_filtered.csv  # Raw data 
 │── scripts/                         # Python scripts
