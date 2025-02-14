@@ -10,6 +10,7 @@ It consists of:
 - **A Tableau dashboard** for visualizing forecasted demand, power allocation, and cost analysis.
 
 ---
+Data sourced from https://open-power-system-data.org/
 
 ## Repository Structure
 
@@ -18,9 +19,7 @@ AI-Powered-Smart-Grid-Optimization/
 │── README.md                   # Project Documentation  
 │── requirements.txt            # Dependencies  
 │── data/                       # Required datasets  
-│   ├── time_series_featured.csv  
-│   ├── forecasted_demand_tableau.csv  
-│   ├── optimization_results_tableau.csv  
+│   ├── time_series_15min_singleindex_filtered.csv  # Raw data 
 │── scripts/                         # Python scripts
 │   ├── data_cleaning.py             # Clean raw data 
 │   ├── eda.py                       # Exploratory Data Analysis  
