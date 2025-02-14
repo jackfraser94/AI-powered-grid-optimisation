@@ -16,25 +16,27 @@ Access: https://open-power-system-data.org/
 
 Data Chosen: Time series is good for forecasting consumption, balancing with generation
 
-'''
-AI-Powered-Smart-Grid-Optimization/ │── README.md # Project Documentation
-│── requirements.txt # Dependencies
-│── data/ # Required datasets
-│ ├── time_series_featured.csv
-│ ├── forecasted_demand_tableau.csv
-│ ├── optimization_results_tableau.csv
-│── models/ # Saved machine learning models
-│ ├── forecasting_model.pkl
-│── scripts/ # Python scripts
-│ ├── eda.py # Exploratory Data Analysis
-│ ├── feature_engineering.py # Feature Engineering
-│ ├── forecasting_model.py # ML Model Training
-│ ├── grid_optimization.py # Grid Optimization Algorithm
-│ ├── run_predictions.py # Running Predictions on New Data
-│── images/ # Saved visualizations
-│ ├── actual_demand.png
-│ ├── correlation_heatmap.png
-│── tableau/ # Tableau Dashboard Files
-│ ├── tableau_dashboard.twbx 
-'''
+## Repository Structure
+
+```plaintext
+AI-Powered-Smart-Grid-Optimization/
+│── README.md                   # Project Documentation  
+│── requirements.txt            # Dependencies  
+│── data/                        # Required datasets  
+│   ├── time_series_featured.csv  
+│   ├── forecasted_demand_tableau.csv  
+│   ├── optimization_results_tableau.csv  
+│── models/                      # Saved machine learning models  
+│   ├── forecasting_model.pkl  
+│── scripts/                      # Python scripts  
+│   ├── eda.py                      # Exploratory Data Analysis  
+│   ├── feature_engineering.py       # Feature Engineering  
+│   ├── forecasting_model.py         # ML Model Training  
+│   ├── grid_optimization.py         # Grid Optimization Algorithm  
+│   ├── run_predictions.py           # Running Predictions on New Data  
+│── images/                       # Saved visualizations  
+│   ├── actual_demand.png  
+│   ├── correlation_heatmap.png  
+│── tableau/                      # Tableau Dashboard Files  
+│   ├── tableau_dashboard.twbx  
 
