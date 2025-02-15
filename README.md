@@ -7,11 +7,10 @@ The optimization model minimizes costs while ensuring that electricity supply me
 It consists of:
 - **A machine learning model** that predicts electricity demand based on historical data.
 - **An optimization algorithm** that determines the most efficient energy allocation strategy.
-- **A Tableau dashboard** for visualizing forecasted demand, power allocation, and cost analysis.
+- **A Tableau dashboard** for visualizing forecasted demand, power allocation, and cost analysis. (available shortly)
 
 ---
 Data sourced from https://open-power-system-data.org/
-Tabelau dahsboard will be available shortly 
 
 ## Repository Structure
 
