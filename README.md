@@ -1,7 +1,7 @@
 # AI-Powered Smart Grid Optimization
 
 ## Project Overview
-This project optimizes power grid allocation by balancing conventional, renewable, and battery power sources** to meet forecasted energy demand efficiently.  
+This project optimizes power grid allocation by balancing conventional, renewable, and battery power sources to meet forecasted energy demand efficiently.  
 The optimization model minimizes costs while ensuring that electricity supply meets demand using Linear Programming (PuLP).
 
 It consists of:
