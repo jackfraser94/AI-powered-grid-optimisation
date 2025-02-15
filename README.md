@@ -12,6 +12,8 @@ It consists of:
 ---
 Data sourced from https://open-power-system-data.org/
 
+Next version will be updated with API functionality.
+
 ## Repository Structure
 
 ```plaintext
