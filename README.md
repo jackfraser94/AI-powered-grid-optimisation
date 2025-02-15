@@ -11,6 +11,7 @@ It consists of:
 
 ---
 Data sourced from https://open-power-system-data.org/
+Tabelau dahsboard will be available shortly 
 
 ## Repository Structure
 
@@ -26,7 +27,8 @@ AI-Powered-Smart-Grid-Optimization/
 │   ├── feature_engineering.py       # Feature Engineering  
 │   ├── forecasting_model.py         # ML Model Training  
 │   ├── grid_optimization.py         # Grid Optimization Algorithm  
-│   ├── run_predictions.py           # Running Predictions on New Data  
+│   ├── run_predictions.py           # Running Predictions on New Data
+│   ├── future_date_prediction.py    # Determine load for a given date and time
 │── images/                       # Saved visualizations  
 │   ├── actual_demand.png  
 │   ├── correlation_heatmap.png  
