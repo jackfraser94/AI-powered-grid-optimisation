@@ -18,7 +18,8 @@ Tabelau dahsboard will be available shortly
 ```plaintext
 AI-Powered-Smart-Grid-Optimization/
 │── README.md                   # Project Documentation  
-│── dependencies.txt            # Dependencies  
+│── dependencies.txt            # Dependencies
+|── AI POWERED SMART GRID OPTMISATION.pdf    #Project report
 │── data/                       # Required datasets  
 │   ├── time_series_15min_singleindex_filtered.csv  # Raw data 
 │── scripts/                         # Python scripts
