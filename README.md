@@ -36,4 +36,7 @@ AI-Powered-Smart-Grid-Optimization/
 │   ├── correlation_heatmap.png  
 │── tableau/                      # Tableau Dashboard Files  
 │   ├── tableau_dashboard.twbx  
+```
+## Version History 
 
+1.0 - initial release that went through methods to generate forecast and optimisation models. This version yielded the original project report (The project report may become outdated as fixes and new features are added).
