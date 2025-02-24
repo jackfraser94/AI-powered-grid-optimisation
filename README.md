@@ -40,6 +40,7 @@ AI-Powered-Smart-Grid-Optimization/
 
 - 1.0 - initial release that went through methods to generate forecast and optimisation models. This version yielded the original project report (The project report may become outdated as fixes and new features are added).
 - 1.1 - reworked the .py files functionality
+- 1.2. - currently working on logic fix where timestamp varibales are giving an incorrect timerange in the final optimisation report. fix should be completed by 26/02/25
 ## Notes
 
 - utilising the data from OPSD the results from this analysis seem high, however, under inspection of the initial dataset the predicted values are in line with the supplied data. Future iterations of this project will take different datasets to test for uniform compliance and overall accuracy. 
